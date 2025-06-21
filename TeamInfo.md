@@ -6,14 +6,14 @@
 | ----------- | ---------------------- |
 | TeamID      |        Team-009        |
 | TeamName    |         Team9          |
-| Captain     |       Abdu Alawini     |
-| Captain     |  alawini@illinois.edu  |
-| Member1     |  Shadman Saqib Eusuf   |
-| Member1     |  seusuf2@illinois.edu  |
-| Member2     |     Aryaman Nasare     |
-| Member2     |  nasare2@illinois.edu  |
-| Member3     |                        |
-| Member3     |                        |
+| Captain     |       Xuhang Xiao      |
+| Captain     |  xuhangx2@illinois.edu |
+| Member1     |       Aaditya Ghimire  |
+| Member1     |  ag99@illinois.edu     |
+| Member2     |       Foina Bai        |
+| Member2     |  fbai2@illinois.edu    |
+| Member3     |      Steven Adam       |
+| Member3     |  stevenp8@illinois.edu |
 
 ## Project Information
 
