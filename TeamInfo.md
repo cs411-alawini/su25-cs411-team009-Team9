@@ -19,10 +19,11 @@
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
-|  Title      |       ProjectTitle     |
+|  Title      |       FlickFilter     |
 | System URL  |      link_to_system    |
 | Video Link  |      link_to_video     |
 
 ## Project Summary
 
-This is a summary of the project!
+FlickFilter is a personalized journaling platform that helps users log, reflect on, and organize the movies and TV shows they watch. Unlike traditional rating sites like IMDB or Letterboxd, FlickFilter prioritizes self-reflection, multi-tagging, and custom filtering over generic star scoring.
+Users can apply their own multi-select custom tags to describe how a film made them feel (e.g., “nostalgic,” “too real,” “made me laugh”), write meaningful private reviews, and organize their experiences into personalized playlists like “Late Night Comfort” or “Best of 2025.” The app supports filtering by multiple tags, enabling users to rediscover the exact kind of experience they’re in the mood for.
