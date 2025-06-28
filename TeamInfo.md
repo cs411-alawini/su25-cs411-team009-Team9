@@ -12,7 +12,7 @@
 | Member1     |  ag99@illinois.edu     |
 | Member2     |       Foina Bai        |
 | Member2     |  fbai2@illinois.edu    |
-| Member3     |      Steven Adam       |
+| Member3     |    Steven Piotrowski   |
 | Member3     |  stevenp8@illinois.edu |
 
 ## Project Information
